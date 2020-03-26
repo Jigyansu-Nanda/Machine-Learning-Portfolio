@@ -8,7 +8,7 @@ For a more visually pleasant experience for browsing the portfolio, check out my
 
 ## Contents
 
-__* Machine Learning (micro projects)__
+* __Machine Learning (micro projects)__
 
 * E-commerce Customers (Linear Regression)
 * Titanic Survival Prediction (Logistic Regression)
