@@ -11,5 +11,5 @@ For a more visually pleasant experience for browsing the portfolio, check out my
 - ### Machine Learning (micro projects)
 
 	- [E-commerce Customers](https://github.com/Jigyansu-Nanda/Machine-Learning-Portfolio/tree/master/Machine%20Learning%20(Micro%20Projects)/Ecommerce%20Customers) (Linear Regression): 
-	- Titanic Survival Prediction (Logistic Regression)
+	- [Titanic Survival Prediction](https://github.com/Jigyansu-Nanda/Machine-Learning-Portfolio/tree/master/Machine%20Learning%20(Micro%20Projects)/Titanic%20Survival%20Prediction) (Logistic Regression):
 	- Advertisement clicked or not? (Logistic Regression)
