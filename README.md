@@ -4,7 +4,7 @@ This repository contains all the machine learning projects completed by me. I ha
 
 For a more visually pleasant experience for browsing the portfolio, check out my website
 
-*(All .ipynb and .py files and datasets can be downloaded further and used by interested individuals for fair use. Some datasets are provided with link to [Kaggle](https://www.kaggle.com))*
+*(All .ipynb and .py files and datasets can be downloaded further and used by interested individuals for fair use. Some datasets are provided with link to [Kaggle](https://www.kaggle.com))* and some datasets are loaded using [sklearn.datasets()](https://scikit-learn.org/stable/datasets/index.html#toy-datasets)
 
 ## Contents
 
