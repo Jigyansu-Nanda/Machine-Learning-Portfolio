@@ -4,14 +4,14 @@ This repository contains all the machine learning projects completed by me. I ha
 
 For a more visually pleasant experience for browsing the portfolio, check out my website
 
-*(All .ipynb and .py files and datasets can be downloaded further and used by interested individuals for fair use. Some datasets are provided with link to [Kaggle](https://www.kaggle.com))* and some datasets are loaded using [sklearn.datasets()](https://scikit-learn.org/stable/datasets/index.html#toy-datasets)
+*(All .ipynb and .py files and datasets can be downloaded further and used by interested individuals for fair use. Some datasets are provided with link to [Kaggle](https://www.kaggle.com)* and some datasets are loaded using [sklearn.datasets](https://scikit-learn.org/stable/datasets/index.html#toy-datasets))
 
 ## Contents
 
 - ### Machine Learning (using Python from scratch)
 
-  The projects in this section are built without using Scikit-learn's inbuilt ML Models. Tools used in these projects are mainly : Numpy and Pandas. Matplotlib has been used, wherever visualizations were required.
-  	- Deciding number of Components in PCA A statistical approach to decide number of Components in Principal Component Analysis, using Explained-Variance.
+  The projects in this section are built **without** using Scikit-learn's inbuilt ML Models. Tools used in these projects are mainly : Numpy and Pandas. Matplotlib has been used, wherever visualizations were required.
+  	- [Deciding number of Components in PCA](https://github.com/Jigyansu-Nanda/Machine-Learning-Portfolio/blob/master/Machine%20Learning%20(using%20Python%20from%20scratch)/Deciding%20number%20of%20Components%20in%20PCA/PCA_components.ipynb) A statistical approach to decide number of Components in Principal Component Analysis, using Explained-Variance.
 
 - ### Machine Learning (using Scikit-learn)
 
