@@ -11,6 +11,7 @@ For a more visually pleasant experience for browsing the portfolio, check out my
 - ### Machine Learning (using Python from scratch)
 
   The projects in this section are built without using Scikit-learn's inbuilt ML Models. Tools used in these projects are mainly : Numpy and Pandas. Matplotlib has been used, wherever visualizations were required.
+  	- Deciding number of Components in PCA A statistical approach to decide number of Components in Principal Component Analysis, using Explained-Variance.
 
 - ### Machine Learning (using Scikit-learn)
 
