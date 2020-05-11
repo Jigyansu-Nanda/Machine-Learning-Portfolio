@@ -1,1 +1,1 @@
-### Logistic Regression using Numpy
+# Logistic Regression using Numpy
